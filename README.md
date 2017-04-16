@@ -3,7 +3,6 @@ Shadow Blockchain
 What is blockchain.tar.xz?
 
 It is the verified and indexed database containing Shadow blockchain data, from the genesis block through a recent height.
-This is created from the bootstrap.dat from this project : https://github.com/shadowproject/bootstrap
 
 ------------------------------------------------
 Who wants blockchain.tar.xz?
