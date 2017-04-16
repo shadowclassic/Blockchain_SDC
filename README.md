@@ -1,6 +1,5 @@
 # Blockchain_SDC
 Shadow Blockchain
-
 ------------------------------------------------
 What is blockchain.tar.xz?
 
